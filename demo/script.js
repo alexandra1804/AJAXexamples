@@ -1,5 +1,5 @@
 function vote() {
-    button.innerHTML = ' ... ';
+    button.innerHTML = ' Voting... ';
 
     var xhr = new XMLHttpRequest();
 
