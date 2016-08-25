@@ -1,0 +1,12 @@
+{
+  "name": "AJAXexamples",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexandra1804/AJAXexamples.git"
+  },
+  "license": "UNLICENSED",
+  "dependencies": {
+    "node-static": "^0.7.8"
+  }
+}
